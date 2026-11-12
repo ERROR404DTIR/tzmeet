@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" xml:space="preserve">
+<style>
+.t{font:15px 'Courier New',monospace;fill:#c9d1d9;white-space:pre}
+.g{fill:#3fb950}.b{fill:#58a6ff}.d{fill:#8b949e}.y{fill:#d29922}
+.l{opacity:0;animation:in .4s forwards}
+@keyframes in{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+.c{animation:blink 1s steps(1) infinite}
+</style>
+<rect width="800" height="230" rx="12" fill="#0d1117"/>
+<rect width="800" height="34" rx="12" fill="#161b22"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text class="t d" x="350" y="22">tzmeet</text>
+<text class="t l" x="24" y="66" style="animation-delay:.3s"><tspan class="g">$</tspan> python tzmeet.py Tehran London Tokyo --at 14:00</text>
+<text class="t l d" x="24" y="94" style="animation-delay:1s">2026-11-12  14:00 in Tehran</text>
+<text class="t l b" x="24" y="124" style="animation-delay:1.5s">Tehran            Thu 14:00         UTC+3:30</text>
+<text class="t l g" x="24" y="148" style="animation-delay:2s">London            Thu 10:30         UTC+0</text>
+<text class="t l y" x="24" y="172" style="animation-delay:2.5s">Tokyo             Thu 19:30         UTC+9</text>
+<text class="t l" x="24" y="212" style="animation-delay:3.1s"><tspan class="g">$</tspan></text>
+<rect class="c" x="40" y="199" width="9" height="15" fill="#58a6ff"/>
+</svg>
