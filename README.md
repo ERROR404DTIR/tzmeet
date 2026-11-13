@@ -1,4 +1,6 @@
 <p align="center">
+
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated TZMeet time zone banner" width="100%"></p>
   <img src="assets/banner.svg" alt="tzmeet animated terminal demo" width="800">
 </p>
 
